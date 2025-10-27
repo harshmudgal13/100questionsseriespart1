@@ -1,1 +1,1 @@
-Contains 15 questions for the beginners with their solutions.
+100 questions for the beginners with their solutions.
